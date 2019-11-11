@@ -1,1 +1,2 @@
-# Designing_and_creating_a_database-Guided-project-
+# Designing and creating a database
+A guided project from dataquest . Check Final.ipynb for more info
